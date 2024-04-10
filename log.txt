@@ -1,0 +1,6 @@
+log(日志文件)
+{
+	log v1.1 hello
+	log v1.2 hello world
+	log v1.2.1 hello world !!!
+}
