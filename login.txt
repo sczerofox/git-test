@@ -1,6 +1,6 @@
 login(){
   System.out.println("login");
-  if(login.equsa(log)){
+  if(login.equsa(log) && login == "login"){
 	reture ok;
   }else{
         reture error;
